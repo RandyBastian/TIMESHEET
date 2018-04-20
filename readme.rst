@@ -1,8 +1,3 @@
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
-
 *******************
 Release Information
 *******************
@@ -17,5 +12,7 @@ SiCepat merupakan salah satu ekspedisi yang berkembang di Indonesia. Ekspedisi i
 
 
 Langkah pertama cek resi ekspedisi SiCepat adalah dengan kunjungi situs resmi SiCepat atau bisa juga melalui aplikasi SiCepat Express. Kamu bisa juga menggunakan situs lain yang menyediakan fasilitas serupa namun pilih ekspedisi SiCepat. Aplikasi SiCepat dapat kamu unduh dan pasang dari google play store maupun app store. Setelah masuk ke laman atau aplikasi tersebut, masukkan nomor resi pengiriman barangmu ke dalam kolom nomor resi. Setelah itu, klik  opsi lacak atau cari dan tungu beberapa saat. Setelah menunggu beberapa saat, akan muncul informasi terkait paket kamu di Resi Tarif . Informasi tersebut bisa berupa sampai mana paketanmu berada saat ini. Nah, bagi kamu yang melacak nomor resi melalui aplikasi SiCepat kamu akan menemukan keunggulan yaitu informasi yang up to date mengenai paketanmu.
+
+https://resitarif.com/blog/3-cara-cek-resi-jne-di-resitarif-com-yang-akurat
 
 Itulah cara mudah cek resi pengiriman ekspedisi SiCepat online secara mudah. Ketika kamu menemukan kejanggalan dengan nomor resimu, bisa tanyakan pada pihak online store bisa juga pada customer service ekspedisi tersebut. Ada beberapa istilah khusus dari SiCepat yang merupakan kode dan patut kamu ketahui. Ketika ada tulisan on process pada informasi paketanmu berarti paketmu sedang dalam proses pengiriman. Apabila ada tulisan CODA berarti kirimanmu sudah dikirim namun tempat tujuan tidak ada penerima atau salah. Sedangkan Criss Cross berarti paketanmu tertukar lalu bad address berarti alamat tujuan tidak jelas.
