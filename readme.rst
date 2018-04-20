@@ -1,69 +1,16 @@
-###################
-What is CodeIgniter
-###################
-
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
 
-**************************
-Changelog and New Features
-**************************
+Perusahaan bidang ekspedisi kini semakin menjamur mengingat berkembangnya e-commerce atau pasar online di Indonesia. Banyak orang memilih untuk belanja online ketimbang datang langsung ke toko konvensional. Pasar online memiliki kelebihan dibanding pasar konvensional pada umumnya sehingga kita lebih memilih pasar online. Kelebihan tersebut diantaranya pasar online menyediakan barang dengan harga yang lebih murah daripada pasar konvensional. Selain itu, berbagai macam barang dengan varian lengkap akan memanjakanmu dan memberimu keleluasaan untuk memilih produk mana yang hendak dibeli 'ResiTarif
+<https://resitarif.com>'_. Nah, baru setelah usai berbelanja online, kamu akan disediakan bermacam pilihan opsi pengiriman, salah satunya pengiriman via ekspedisi SiCepat. Pengiriman memang membutuhkan waktu yang memakan beberapa hari, maka kamu perlu informasi yang akurat untuk cek resi apakah pesananmu telah dikirim atau belum.
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Nomor resi menjadi penting kamu ketahui untuk memantau status dari barang kirimanmu. Mengingat saat ini banyak sekali bisnis online yang kerap sekali meresahkan konsumen online, sebelum berbelanja online terlebih dahulu pastikan bahwa online shop yang kamu kunjungi itu benar-benar terpercaya. Perhatikan testimoni dari semua konsumen yang telah lebih dulu berbelanja disana. Jika respon positif, maka itu menjadi pertanda kamu bisa berbelanja di online shop tersebut dengan tenang. Namun selain testimoni, ada juga jenis ekpedisi yang digunakan. Pastikan ekspedisi itu menyediakan fasilitas cek resi yang bisa diakses setiap saat. Tidak mau kan menunggu kiriman tanpa tahu kepastian?
 
-*******************
-Server Requirements
-*******************
+SiCepat merupakan salah satu ekspedisi yang berkembang di Indonesia. Ekspedisi ini termasuk rekomended dan memberikan pelayanan yang memuaskan bagi para pelanggan. Sudah sejak tahun 2004 SiCepat mengabdikan diri dalam bidang pengiriman di seluruh wilayah Indonesia. Jadi, buat para pebisnis online yang hendak menjadi mitra kerja sama ekspedisi, SiCepat ini bisa jadi rekomendasi buat kamu karena juga menyediakan fasilitas cek resi secara online. Fasilitas ini bisa kamu manfaatkan untuk mendeteksi bagaimana kirimanmu telah diproses, cek Resi Tarif . Bagaimana  langkah-langkah pengecekan tersebut? Mari kita simak pada pembahasan berikut!
 
-PHP version 5.4 or newer is recommended.
 
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Langkah pertama cek resi ekspedisi SiCepat adalah dengan kunjungi situs resmi SiCepat atau bisa juga melalui aplikasi SiCepat Express. Kamu bisa juga menggunakan situs lain yang menyediakan fasilitas serupa namun pilih ekspedisi SiCepat. Aplikasi SiCepat dapat kamu unduh dan pasang dari google play store maupun app store. Setelah masuk ke laman atau aplikasi tersebut, masukkan nomor resi pengiriman barangmu ke dalam kolom nomor resi. Setelah itu, klik  opsi lacak atau cari dan tungu beberapa saat. Setelah menunggu beberapa saat, akan muncul informasi terkait paket kamu di Resi Tarif . Informasi tersebut bisa berupa sampai mana paketanmu berada saat ini. Nah, bagi kamu yang melacak nomor resi melalui aplikasi SiCepat kamu akan menemukan keunggulan yaitu informasi yang up to date mengenai paketanmu.
 
-************
-Installation
-************
-
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <http://www.codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Itulah cara mudah cek resi pengiriman ekspedisi SiCepat online secara mudah. Ketika kamu menemukan kejanggalan dengan nomor resimu, bisa tanyakan pada pihak online store bisa juga pada customer service ekspedisi tersebut. Ada beberapa istilah khusus dari SiCepat yang merupakan kode dan patut kamu ketahui. Ketika ada tulisan on process pada informasi paketanmu berarti paketmu sedang dalam proses pengiriman. Apabila ada tulisan CODA berarti kirimanmu sudah dikirim namun tempat tujuan tidak ada penerima atau salah. Sedangkan Criss Cross berarti paketanmu tertukar lalu bad address berarti alamat tujuan tidak jelas.
